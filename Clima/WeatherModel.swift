@@ -1,9 +1,9 @@
 //
-//  WeatherModel.swift
+//  WeatherManager.swift
 //  Clima
 //
-//  Created by Huseyin Can Dayan on 2.02.2020.
-//  Copyright © 2020 App Brewery. All rights reserved.
+//  Created by Huseyin Can Dayan on 27.01.2020.
+//  Copyright © 2020 hcd. All rights reserved.
 //
 
 import Foundation

@@ -1,9 +1,9 @@
 //
-//  SceneDelegate.swift
+//  WeatherManager.swift
 //  Clima
 //
-//  Created by Angela Yu on 01/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Created by Huseyin Can Dayan on 27.01.2020.
+//  Copyright © 2020 hcd. All rights reserved.
 //
 
 import UIKit

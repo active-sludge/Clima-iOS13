@@ -3,7 +3,7 @@
 //  Clima
 //
 //  Created by Huseyin Can Dayan on 27.01.2020.
-//  Copyright © 2020 App Brewery. All rights reserved.
+//  Copyright © 2020 hcd. All rights reserved.
 //
 
 import Foundation
